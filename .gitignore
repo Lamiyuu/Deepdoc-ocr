@@ -1,0 +1,18 @@
+<CodeBlock language="gitignore" editable>
+# Python virtual environment
+myenv/
+venv/
+.venv/
+
+Python cache
+pycache/
+**/pycache/
+*.py[cod]
+Log files
+log/*.log
+Temporary OCR results
+ketqua_ocr.txt
+svm_result.txt
+Jupyter
+.ipynb_checkpoints/
+</CodeBlock>

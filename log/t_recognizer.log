@@ -116,3 +116,108 @@ Traceback (most recent call last):
 AttributeError: type object 'LayoutRecognizer4YOLOv10' has no attribute 'find_overlapped_with_threshold'. Did you mean: 'find_overlapped_with_threashold'?
 
 === Run 10 | 2025-08-28 18:16:46 ===
+
+=== Run 11 | 2026-07-10 13:56:43 ===
+
+=== Run 12 | 2026-07-29 15:26:29 ===
+Image 0:
+  Detected label: title
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+Image 1:
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: figure
+  Detected label: figure caption
+Image 2:
+  Detected label: title
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+Image 3:
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+Image 4:
+  Detected label: title
+  Detected label: title
+  Detected label: title
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: reference
+  Detected label: figure
+  Detected label: figure
+
+=== Run 13 | 2026-08-21 17:03:50 ===
+Image 0:
+  Detected label: title
+  Detected label: title
+  Detected label: title
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: text
+  Detected label: reference
+  Detected label: figure

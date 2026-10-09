@@ -8,3 +8,68 @@ OCR hoàn thành!
 Task 0 start
 Task 0 done in 1.59 seconds
 OCR hoàn thành!
+
+=== Run 3 | 2026-07-10 13:31:09 ===
+Task 0 start
+Task 0 done in 13.29 seconds
+OCR hoàn thành!
+
+=== Run 4 | 2026-07-29 15:29:30 ===
+usage: t_ocr.py [-h] --inputs INPUTS [--output_dir OUTPUT_DIR]
+t_ocr.py: error: unrecognized arguments: --threshold=0.2 --mode=layout
+
+=== Run 5 | 2026-07-29 15:31:52 ===
+Task 0 start
+Task 0 done in 7.11 seconds
+Task 1 start
+Task 1 done in 4.70 seconds
+Task 2 start
+Task 2 done in 7.57 seconds
+Task 3 start
+Task 3 done in 7.83 seconds
+Task 4 start
+Task 4 done in 5.06 seconds
+OCR hoàn thành!
+
+=== Run 6 | 2026-07-29 17:05:04 ===
+Task 0 start
+Task 0 done in 2.35 seconds
+Task 1 start
+Task 1 done in 5.47 seconds
+Task 2 start
+Task 2 done in 6.22 seconds
+Task 3 start
+Task 3 done in 4.97 seconds
+Task 4 start
+Task 4 done in 2.96 seconds
+Task 5 start
+Task 5 done in 7.74 seconds
+Task 6 start
+Task 6 done in 5.09 seconds
+Task 7 start
+Task 7 done in 6.55 seconds
+Task 8 start
+Task 8 done in 5.62 seconds
+Task 9 start
+Task 9 done in 7.96 seconds
+Task 10 start
+Task 10 done in 8.80 seconds
+Task 11 start
+Task 11 done in 8.50 seconds
+Task 12 start
+Task 12 done in 6.95 seconds
+Task 13 start
+Task 13 done in 4.03 seconds
+Task 14 start
+Task 14 done in 0.98 seconds
+OCR hoàn thành!
+
+=== Run 7 | 2026-08-21 14:16:19 ===
+Task 0 start
+Task 0 done in 2.31 seconds
+OCR hoàn thành!
+
+=== Run 8 | 2026-08-21 14:20:15 ===
+Task 0 start
+Task 0 done in 1.28 seconds
+OCR hoàn thành!
